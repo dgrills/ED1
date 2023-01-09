@@ -3,7 +3,7 @@
 let gif; //img for static image
 
 function preload(){ //preload my gif
-  gif = loadImage (assets/BG_background.gif);
+  gif = loadImage ('assets/background300.gif');
 }
 
 function setup() { //runs one time
